@@ -336,3 +336,5 @@ In this milestone we have deployed our frontend and backend servers
 
 - Frontend server Link:
   https://ecommerce-follow-along-git-main-nidhish-agarwals-projects.vercel.app/
+
+<!-- Debugging -->
